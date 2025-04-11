@@ -1,4 +1,4 @@
-sistemabancario\CaixaEletronico.class
-sistemabancario\SistemaBancario.class
-sistemabancario\ContaBancaria.class
-sistemabancario\ContaCorrente.class
+sistemabancario/ContaCorrente.class
+sistemabancario/CaixaEletronico.class
+sistemabancario/ContaBancaria.class
+sistemabancario/SistemaBancario.class
